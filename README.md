@@ -1,1 +1,1 @@
-My CV [jump](https://detkaeliz.github.io/rsschool-cv/cv "jump")
+My CV [jump](https://detkaeliz.github.io/rsschool-cv/ "jump")
